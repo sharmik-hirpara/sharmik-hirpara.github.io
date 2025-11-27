@@ -21,20 +21,22 @@ export default function Experience() {
             {experience.map((xp) => (
               <Fragment key={xp.companyName}>
                 <div className="text-left text-xl col-span-3">
-                  {xp.companyName} - {xp.position}
+                  {xp.position} | {xp.companyName}
                 </div>
                 <div className="text-right">
                   {xp.duration}
                 </div>
-                <div className="col-span-4">
-                  <ul className="list-disc ml-5 mb-5 text-justify text-gray-400">
-                    {xp.responsibilities.map((responsibility) => (
-                      <div>
-                        <li key={responsibility.id}>{responsibility}</li>
-                      </div>
-                    ))}
-                  </ul>
-                </div>
+                {Array.isArray(xp.responsibilities) && xp.responsibilities.length > 0 && (
+                  <div className="col-span-4">
+                    <ul className="list-disc ml-5 mb-5 text-justify text-gray-400">
+                      {xp.responsibilities.map((responsibility) => (
+                        <div>
+                          <li key={responsibility.id}>{responsibility}</li>
+                        </div>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </Fragment>
             ))}
           </div>

@@ -121,6 +121,22 @@ export const projects = [
   export const experience = [
     {
       companyName: "TAL",
+      position: "Software Engineer",
+      duration: "May 2024 - Present",
+      responsibilities: ([
+        "Continued maintaining and enhancing CRM software using C#, and .NET MVC along with REST APIs, and SQL Server scripts, based on client requirements.",
+        "Collaborating with team members to design, develop, plan UAT testing, software release and prepare the necessary document for release",
+        "Supporting data onboarding and identifying sensitive tasks for smooth transition between the modern technologies.",
+        "Actively learning AWS, Azure DevOps and Salesforce and migrating legacy software to new technologies.",
+      ])
+    },
+    {
+      companyName: "Visited India for family reasons",
+      position: "Career Break",
+      duration: "Dec 2023 - Apr 2024",
+    },
+    {
+      companyName: "TAL",
       position: "Developer",
       duration: "Feb 2022 - Nov 2023",
       responsibilities: ([
