@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cbf99e5.chunk.css",
-    "main.js": "/static/js/main.ea0f4cf9.chunk.js",
-    "main.js.map": "/static/js/main.ea0f4cf9.chunk.js.map",
+    "main.css": "/static/css/main.7d17ad8a.chunk.css",
+    "main.js": "/static/js/main.e2f71bed.chunk.js",
+    "main.js.map": "/static/js/main.e2f71bed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c16aa0b3.js",
     "runtime-main.js.map": "/static/js/runtime-main.c16aa0b3.js.map",
     "static/css/2.c59b9ff7.chunk.css": "/static/css/2.c59b9ff7.chunk.css",
-    "static/js/2.aa629f8d.chunk.js": "/static/js/2.aa629f8d.chunk.js",
-    "static/js/2.aa629f8d.chunk.js.map": "/static/js/2.aa629f8d.chunk.js.map",
+    "static/js/2.cfe3d9c4.chunk.js": "/static/js/2.cfe3d9c4.chunk.js",
+    "static/js/2.cfe3d9c4.chunk.js.map": "/static/js/2.cfe3d9c4.chunk.js.map",
     "static/js/3.40b42caf.chunk.js": "/static/js/3.40b42caf.chunk.js",
     "static/js/3.40b42caf.chunk.js.map": "/static/js/3.40b42caf.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.c59b9ff7.chunk.css.map": "/static/css/2.c59b9ff7.chunk.css.map",
-    "static/css/main.1cbf99e5.chunk.css.map": "/static/css/main.1cbf99e5.chunk.css.map",
-    "static/js/2.aa629f8d.chunk.js.LICENSE.txt": "/static/js/2.aa629f8d.chunk.js.LICENSE.txt",
+    "static/css/main.7d17ad8a.chunk.css.map": "/static/css/main.7d17ad8a.chunk.css.map",
+    "static/js/2.cfe3d9c4.chunk.js.LICENSE.txt": "/static/js/2.cfe3d9c4.chunk.js.LICENSE.txt",
     "static/media/FindNextPalindromeNumber.bcd7aa6d.png": "/static/media/FindNextPalindromeNumber.bcd7aa6d.png",
     "static/media/FitnessWebApplication.be4ab30a.png": "/static/media/FitnessWebApplication.be4ab30a.png",
     "static/media/Profile picture.943c130f.jpg": "/static/media/Profile picture.943c130f.jpg",
     "static/media/Pronunciation.f19cdf6b.mp3": "/static/media/Pronunciation.f19cdf6b.mp3",
-    "static/media/Resume - Sharmik Hirpara.e35292f3.pdf": "/static/media/Resume - Sharmik Hirpara.e35292f3.pdf",
+    "static/media/Resume - Sharmik Hirpara.8a5c9166.pdf": "/static/media/Resume - Sharmik Hirpara.8a5c9166.pdf",
     "static/media/SearchWordFromTextFile.a82cb195.png": "/static/media/SearchWordFromTextFile.a82cb195.png",
     "static/media/WordPressPortfolio.39560fb3.png": "/static/media/WordPressPortfolio.39560fb3.png",
     "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf"
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.c16aa0b3.js",
     "static/css/2.c59b9ff7.chunk.css",
-    "static/js/2.aa629f8d.chunk.js",
-    "static/css/main.1cbf99e5.chunk.css",
-    "static/js/main.ea0f4cf9.chunk.js"
+    "static/js/2.cfe3d9c4.chunk.js",
+    "static/css/main.7d17ad8a.chunk.css",
+    "static/js/main.e2f71bed.chunk.js"
   ]
 }
