@@ -7,6 +7,7 @@ export default function Footer() {
     const [quote, setQuote] = useState("");
     const [author, setAuthor] = useState("");
     
+    /*
     const generateQuote = async () => {
         let response = await fetch("https://programming-quotesapi.vercel.app/api/random", {
           method: "GET",
@@ -17,6 +18,15 @@ export default function Footer() {
         let result = await response.json();
         setQuote(result.quote);
         setAuthor(result.author);
+    };
+    */
+
+    const generateQuote = async () => {
+      const response = await fetch("https://programming-quotes.vercel.app/api/random");
+      const result = await response.json();
+
+      setQuote(result.en);
+      setAuthor(result.author);
     };
 
     useEffect(() => {
